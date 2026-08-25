@@ -1,0 +1,6 @@
+{
+  "name": "Taxly - Gig Worker ITR & TDS Refund Platform",
+  "description": "A fintech platform for Swiggy, Zomato, Zepto, and Blinkit delivery riders to file Income Tax Returns (ITR) and claim 100% TDS refunds with one-click platform sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
